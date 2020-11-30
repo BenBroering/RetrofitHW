@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RetrofitHW</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">Country Information</string>
+    <string name="country_info_placeholder">Here is some country info</string>
+    <string name="subtitle_detail_text">detail text</string>
+    <string name="name_detail_text">country name</string>
+    <string name="region_detail_text">region name</string>
+    <string name="capital_detail_text">capital name</string>
+    <string name="population_detail_text">population value</string>
+
+    <string-array name="country_titles">
+        <item>USA</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>China</item>
+        <item>Pakistan</item>
+        <item>Israel</item>
+        <item>Brazil</item>
+        <item>South Africa</item>
+    </string-array>
+
+    <string-array name="country_info">
+        <item>Click to get info about USA</item>
+        <item>Click to get info about France</item>
+        <item>Click to get info about Germany</item>
+        <item>Click to get info about China</item>
+        <item>Click to get info about Pakistan</item>
+        <item>Click to get info about Israel</item>
+        <item>Click to get info about Brazil</item>
+        <item>Click to get info about South Africa</item>
+    </string-array>
+
+    <array name="country_images">
+        <item>@drawable/usa</item>
+        <item>@drawable/france</item>
+        <item>@drawable/germany</item>
+        <item>@drawable/china</item>
+        <item>@drawable/pakistan</item>
+        <item>@drawable/israel</item>
+        <item>@drawable/brazil</item>
+        <item>@drawable/southafrica</item>
+    </array>
+
+</resources>
